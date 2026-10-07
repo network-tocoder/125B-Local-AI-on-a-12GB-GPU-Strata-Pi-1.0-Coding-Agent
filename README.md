@@ -1,10 +1,23 @@
 # 125B Local AI on a 12GB GPU: Strata + Pi 1.0 Coding Agent
 
-▶️ Video: https://www.youtube.com/watch?v=c1DXLFLMRkk
-📺 Part 1 (Strata on RTX 3090): https://github.com/network-tocoder/Run-a-125B-AI-Model-on-One-GPU-Strata-Qwen3.8-Flash-Next
+## 📺 The 125B-on-One-GPU Series
 
-A 125B mixture-of-experts model (**Swift 1.5**, a fine-tune of Qwen3.8-Flash-Next, IQ3_XXS) running on a **12GB GPU** with the free **Strata** engine, driven by the **Pi 1.0** coding agent through 4 real coding levels. **$0 per token, fully local.**
+Run a **125B AI model locally** on a single consumer GPU with the free **Strata** engine. Every part is a real, hands-on test with configs and results.
 
+| Part | Video | GPU | What you'll learn | Code |
+|:---:|:---:|:---:|---|:---:|
+| **1** | [![Part 1](https://img.youtube.com/vi/S5drxdKSE1s/mqdefault.jpg)](https://www.youtube.com/watch?v=S5drxdKSE1s)<br>[![Watch Now](https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=S5drxdKSE1s) | **RTX 3090**<br>24GB | Run a 125B model on one GPU: Strata + Qwen 3.8 Flash-Next setup and first benchmarks | [![Repo](https://img.shields.io/badge/GitHub-Part%201-181717?style=for-the-badge&logo=github)](https://github.com/network-tocoder/Run-a-125B-AI-Model-on-One-GPU-Strata-Qwen3.8-Flash-Next) |
+| **2** | [![Part 2](https://img.youtube.com/vi/QBPbvMaHkJc/mqdefault.jpg)](https://www.youtube.com/watch?v=QBPbvMaHkJc)<br>[![Watch Now](https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QBPbvMaHkJc) | **RTX 4060 Ti**<br>16GB | A free local AI coding agent: Strata + opencode through 4 coding levels and a racing-game boss | [![Repo](https://img.shields.io/badge/GitHub-Part%202-181717?style=for-the-badge&logo=github)](https://github.com/network-tocoder/free-local-ai-coding-agent-125b-on-16gb-gpu-strata-opencode) |
+| **3** | [![Part 3](https://img.youtube.com/vi/c1DXLFLMRkk/mqdefault.jpg)](https://www.youtube.com/watch?v=c1DXLFLMRkk)<br>[![Watch Now](https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=c1DXLFLMRkk) | **RTX 3080 Ti**<br>12GB | A new way to run Qwen 125B on 12GB V RAM: full setup, 75 tok/s writing, 2,035 tok/s reading, Pi 1.0 coding agent | [![Repo](https://img.shields.io/badge/GitHub-Part%203-181717?style=for-the-badge&logo=github)](https://github.com/network-tocoder/125B-Local-AI-on-a-12GB-GPU-Strata-Pi-1.0-Coding-Agent) |
+
+### 🧭 Where should I start?
+- **New to Strata?** Start with **[Part 1](https://www.youtube.com/watch?v=S5drxdKSE1s)** for the setup and the basics.
+- **Want a local coding agent?** Jump to **[Part 2](https://www.youtube.com/watch?v=QBPbvMaHkJc)** (opencode).
+- **Have only a 12GB GPU?** Go straight to **[Part 3](https://www.youtube.com/watch?v=c1DXLFLMRkk)** (Pi 1.0).
+
+[![Subscribe](https://img.shields.io/badge/Subscribe-NetworkCoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NetworkCoder?sub_confirmation=1)
+
+⭐ If this helped, **star the repo** so more people can find it.
 ## Hardware
 | Part | Spec |
 |---|---|
