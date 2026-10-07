@@ -1,7 +1,7 @@
 # 125B Local AI on a 12GB GPU: Strata + Pi 1.0 Coding Agent
 
-▶️ Video: *(link after upload)*
-📺 Previous: [125B coding agent on a 16GB GPU](https://github.com/network-tocoder/Free-Local-AI-Coding-Agent-125B-on-16GB-GPU)
+▶️ Video: https://www.youtube.com/watch?v=c1DXLFLMRkk
+📺 Part 1 (Strata on RTX 3090): https://github.com/network-tocoder/Run-a-125B-AI-Model-on-One-GPU-Strata-Qwen3.8-Flash-Next
 
 A 125B mixture-of-experts model (**Swift 1.5**, a fine-tune of Qwen3.8-Flash-Next, IQ3_XXS) running on a **12GB GPU** with the free **Strata** engine, driven by the **Pi 1.0** coding agent through 4 real coding levels. **$0 per token, fully local.**
 
